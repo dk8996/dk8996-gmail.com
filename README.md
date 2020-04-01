@@ -1,2 +1,2 @@
-# dk8996-gmail.com
-ml-coursera
+# Coursera Machine Learning class code
+## Week 1
